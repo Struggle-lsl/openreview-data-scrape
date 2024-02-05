@@ -2,7 +2,7 @@
 An efficient and convenient way to crawl the iclr conference peer review information and pdf on the openreview website, taking ICLR2024 as an example
 
 # example website
-![ICLR 2024](C:/Users/卢仕龙/Desktop/images/1707112876582.jpg)
+![ICLR 2024](images/1707112876582.jpg)
 [url](https://openreview.net/group?id=ICLR.cc/2024/Conference#tab-accept-oral)
 
 
