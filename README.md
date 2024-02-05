@@ -26,4 +26,4 @@ An efficient and convenient way to crawl the iclr conference peer review informa
   <img src="images/review.jpg" alt="ICLR 2024_review" width="400" height="200">
 - Pdf result：
 
-  <img src="images/1707113461050.jpg" alt="ICLR 2024_pdf" width="100" height="300">
+  <img src="images/1707113461050.jpg" alt="ICLR 2024_pdf" width="50" height="300">
