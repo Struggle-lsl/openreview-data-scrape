@@ -2,9 +2,10 @@
 An efficient and convenient way to crawl the iclr conference peer review information and pdf on the openreview website, taking ICLR2024 as an example
 
 # example website
-<div style="text-aligh:center;">
+<center>
   <img src="images/1707112876582.jpg" alt="ICLR 2024" width="600" height="400">
-</div>
+</center>
+
 [url](https://openreview.net/group?id=ICLR.cc/2024/Conference#tab-accept-oral)
 
 
