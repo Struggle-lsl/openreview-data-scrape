@@ -16,3 +16,11 @@ An efficient and convenient way to crawl the iclr conference peer review informa
   First, running get_openreview_id.py will save the id_dict.json file locally.
 
   Then use the json file generated above to run the remaining three py files in parallel to obtain the corresponding information locally at the same time.
+
+# Result Demo
+- Information result：
+  ![ICLR 2024_information](images/information.jpg)
+- Review result：
+  ![ICLR 2024_review](images/review.jpg)
+- Pdf result：
+  ![ICLR 2024_pdf](images/information.jpg)
