@@ -2,7 +2,7 @@
 An efficient and convenient way to crawl the iclr conference peer review information and pdf on the openreview website, taking ICLR2024 as an example
 
 # example website
-<img src="images/1707112876582.jpg" alt="ICLR 2024" width="200" height="150">
+<img src="images/1707112876582.jpg" alt="ICLR 2024" width="600" height="400">
 [url](https://openreview.net/group?id=ICLR.cc/2024/Conference#tab-accept-oral)
 
 
@@ -20,10 +20,10 @@ An efficient and convenient way to crawl the iclr conference peer review informa
 # Result Demo
 - Information result：
 
-  <img src="images/information.jpg" alt="ICLR 2024_information" width="200" height="150">
+  <img src="images/information.jpg" alt="ICLR 2024_information" width="400" height="200">
 - Review result：
 
-  <img src="images/review.jpg" alt="ICLR 2024_review" width="200" height="150">
+  <img src="images/review.jpg" alt="ICLR 2024_review" width="400" height="200">
 - Pdf result：
 
-  <img src="images/1707113461050.jpg" alt="ICLR 2024_pdf" width="200" height="150">
+  <img src="images/1707113461050.jpg" alt="ICLR 2024_pdf" width="100" height="300">
